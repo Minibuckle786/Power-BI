@@ -1,0 +1,17 @@
+Antes de iniciar o exercicios foi feita uma ligaçao de informação das tabelas 
+
+TabelaProdutos com TabelaVenda
+TabelaClientes com TabelaVenda
+
+Tipo de ligação =  Muitos para 1
+
+------------------------------------------------------------------------------
+
+1) Criar uma coluna de Faturamento seguindo as seguintes regras.
+
+1° =  Quantidade * Valor de venda
+Obs: Caso a opção de pagamento for dinheiro o cliente tem 20% de desconto
+
+------------------------------------------------------------------------------
+
+RELATED = Filtro usando para localizar dados em tabela relacionada
